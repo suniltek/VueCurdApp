@@ -1,2 +1,2 @@
 # VueCurdApp
-Vue 2.0 Curd Application using Veutify
+Vue 2.0 Curd Application
