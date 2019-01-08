@@ -1,0 +1,8 @@
+/*********** Setting Up the Project **********/
+https://www.youtube.com/watch?v=GaIsOI8jvSg
+
+/***** Developing Login and Register Functionality *******/
+https://www.youtube.com/watch?v=5alYl63tXL8
+
+/***** Git Hub Links ******/
+https://github.com/webdevmatics?tab=repositories
